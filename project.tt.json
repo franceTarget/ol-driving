@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "ol-driving",
+  "appid": "touristappid",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}

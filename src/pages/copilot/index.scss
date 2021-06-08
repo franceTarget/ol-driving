@@ -1,0 +1,32 @@
+.cu-card.article > .cu-item .content > image {
+    width: 140rpx;
+    height: 6.4em;
+    margin-right: 20rpx;
+    border-radius: 6rpx;
+}
+
+.cu-card.article > .cu-item {
+    padding-bottom: 0rpx;
+}
+
+.cu-card.article > .cu-item .content {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    padding: 10rpx 20rpx;
+}
+
+.content-view-left-my{
+    width: 40%;
+    height: 3.2em;
+}
+
+.content-view-right-my{
+    width: 50%;
+    height: 3.2em;
+}
+
+.bg-shadeBottom-blue {
+    min-height: 60rpx;
+	// background: linear-gradient(to bottom,  #eceef0 10%,#eff5f8 10%,#e6f0f7 20%,#ddeefa 20%,#cfe8f8 20%,#c5e6fa 20%);
+}
