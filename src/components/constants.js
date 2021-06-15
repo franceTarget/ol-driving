@@ -1,6 +1,6 @@
 export const BAR_LIST = [
     { id: 1,icon:'edit', url: '/pages/home/personal/index', color: 'text-orange', value: '个人资料' },
-    { id: 2,icon:'calendar', url: '', color: 'text-cyan', value: '意见反馈' },
+    { id: 2,icon:'calendar', url: '/pages/home/feedback/index', color: 'text-cyan', value: '意见反馈' },
     { id: 3,icon:'creativefill', url: '', color: 'text-red', value: '用户须知' }
 ]
 

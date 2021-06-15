@@ -5,7 +5,8 @@ export default {
         "pages/crossfire/detail/index",
         "pages/home/index",
         "pages/home/personal/index",
-        "pages/home/brief/index"
+        "pages/home/brief/index",
+        "pages/home/feedback/index"
       ],
       window: {
         backgroundTextStyle: "light",
